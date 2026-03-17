@@ -1,0 +1,4 @@
+1.Jest czytelny i standardowy, wiele bibliotek (np. Jackson) go obsługuje.
+.txt to tylko surowy tekst, brak struktury
+2.wyjdzie błąd bo jackson nie może utworzyć obiektu
+3.oznaczenie pola jako transient mówi JVM że to pole nie powinno być serializowane
